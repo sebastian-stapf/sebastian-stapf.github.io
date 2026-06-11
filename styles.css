@@ -178,14 +178,6 @@ a:visited {
   outline: 0;
 }
 
-.paper-figure-wide {
-  aspect-ratio: 480 / 214;
-}
-
-.paper-figure-wide img {
-  object-fit: contain;
-}
-
 .paper-copy {
   grid-column: 2;
   min-width: 0;
