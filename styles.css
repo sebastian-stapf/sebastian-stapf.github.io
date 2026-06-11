@@ -142,6 +142,13 @@ a:visited {
   font-size: 12px;
 }
 
+.paper-description {
+  margin: 5px 0 0;
+  color: var(--ink);
+  font-size: 13px;
+  line-height: 1.35;
+}
+
 .paper-entry {
   display: grid;
   grid-template-columns: 24px 260px 1fr;
