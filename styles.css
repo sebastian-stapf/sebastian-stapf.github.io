@@ -94,21 +94,7 @@ nav {
 }
 
 nav a {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
   margin-right: 16px;
-}
-
-.nav-icon {
-  width: 15px;
-  height: 15px;
-  flex: 0 0 15px;
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: square;
-  stroke-linejoin: miter;
-  stroke-width: 1.4;
 }
 
 a {
